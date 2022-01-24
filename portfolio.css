@@ -50,7 +50,7 @@ h1:hover {
 /* p */
 
 p {
-    text-align: center;
+   
     font-family: Perpetua, Rockwell Extra Bold;
     text-align: justify; /* justify text within p elements */
     letter-spacing: .1vw; /* expands text slightly*/
